@@ -1,0 +1,6 @@
+@Mazad.API_HostAddress = http://localhost:5140
+
+GET {{Mazad.API_HostAddress}}/health
+Accept: application/json
+
+###
