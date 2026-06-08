@@ -30,6 +30,12 @@ artifacts/
 appsettings.Development.json
 appsettings.Local.json
 secrets.json
+*.http.env
+
+## Environment
+.env
+.env.*
+!.env.example
 
 ## OS
 .DS_Store
